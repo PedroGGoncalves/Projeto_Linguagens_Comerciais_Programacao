@@ -20,7 +20,7 @@ Informar a operação "*"
 Digitar o valor "20"
 Informar a operação "="
 
-## Ferramenta
+## ⚙️ Ferramenta
 NetBeans. Abaixo, segue um link para download
 
 ```
