@@ -1,4 +1,4 @@
-# Projeto-Java
+# Projeto_Linguagens_Comerciais_Programacao
 Esse projeto Java, consiste em uma Calculadora Simples. Isso foi a 2ª avaliação da disciplina Linguagens Comerciais de Programação.
 
 ## 📋 Enunciado
