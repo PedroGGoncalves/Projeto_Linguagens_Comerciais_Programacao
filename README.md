@@ -20,7 +20,14 @@ Informar a operação "*"
 Digitar o valor "20"
 Informar a operação "="
 
-## ⚙️ Grupo
+## Ferramenta
+NetBeans. Abaixo, segue um link para download
+
+```
+https://netbeans.apache.org/download/index.html
+```
+
+## 🚀 Grupo
 
 * Lucas Spagnol (https://github.com/LucasBastelli)
 * Lucas Mondini (https://github.com/Miodini)
